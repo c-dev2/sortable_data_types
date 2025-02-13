@@ -12,3 +12,7 @@ To sort an array of doubles, the app calls the `sort_doubles()` function. This f
 ## Sorting Strings
 
 To sort an array of strings, the app calls the `sort_string()` function. This function will return an array of strings where each string's characters are sorted in ascending order, and the modified list is then sorted alphabetically. It will return -1 if any of the elements in the array are not strings.
+
+## Merging Arrays of Integers
+
+To merge two arrays of integers and sort them in ascending order, the app calls the `merge_arrays()` function. This function takes two unsorted arrays as input, merges them, and returns a sorted array. It will return -1 if any of the elements in the input arrays are not integers.
