@@ -2,6 +2,6 @@
 
 Git group exercise for INFO 4290.
 
-# String Sorting
+##String Sorting
 
-This Python script defines a function sort_string that processes a list of input strings by sorting the characters within each string and then sorting the modified list alphabetically. The script prints the transformed list after processing.
+To sort an array of strings, the app calls the `sort_string()` function. This function will return an array of strings where each string's characters are sorted in ascending order, and the modified list is then sorted alphabetically. It will return -1 if any of the elements in the array are not strings.
